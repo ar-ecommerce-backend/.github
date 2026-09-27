@@ -56,41 +56,41 @@ This organization hosts all repositories for the E-commerce Backend platform, in
 
 | Repository | Description |
 | --- | --- |
-| [auth-service](https://github.com/ar-ecommerce-platform/auth-service) | User authentication and JWT management |
-| [user-service](https://github.com/ar-ecommerce-platform/user-service) | Manages user profiles and account details |
-| [product-service](https://github.com/ar-ecommerce-platform/product-service) | Manages product catalog and metadata |
-| [inventory-service](https://github.com/ar-ecommerce-platform/inventory-service) | Tracks stock levels and inventory |
-| [order-service](https://github.com/ar-ecommerce-platform/order-service) | Handles order placement and tracking |
-| [payment-service](https://github.com/ar-ecommerce-platform/payment-service) | Processes and verifies payments |
-| [notification-service](https://github.com/ar-ecommerce-platform/notification-service) | Sends emails and system alerts |
+| [auth-service](https://github.com/ar-ecommerce-backend/auth-service) | User authentication and JWT management |
+| [user-service](https://github.com/ar-ecommerce-backend/user-service) | Manages user profiles and account details |
+| [product-service](https://github.com/ar-ecommerce-backend/product-service) | Manages product catalog and metadata |
+| [inventory-service](https://github.com/ar-ecommerce-backend/inventory-service) | Tracks stock levels and inventory |
+| [order-service](https://github.com/ar-ecommerce-backend/order-service) | Handles order placement and tracking |
+| [payment-service](https://github.com/ar-ecommerce-backend/payment-service) | Processes and verifies payments |
+| [notification-service](https://github.com/ar-ecommerce-backend/notification-service) | Sends emails and system alerts |
 
 
 ### ⚙️ Configuration & Infrastructure  
 
 | Repository | Description |
 | --- | --- |
-| [config-server](https://github.com/ar-ecommerce-platform/config-server) | Centralized configuration service |
-| [config-repo](https://github.com/ar-ecommerce-platform/config-repo) | Centralized configs for all services |
-| [api-gateway](https://github.com/ar-ecommerce-platform/api-gateway) | Routes and secures external API traffic |
-| [discovery-server](https://github.com/ar-ecommerce-platform/discovery-server) | Eureka-based service registry for dynamic service discovery |
-| [infra](https://github.com/ar-ecommerce-platform/infra) | Infrastructure as code: Docker, Kubernetes, secrets |
-| [monitoring](https://github.com/ar-ecommerce-platform/monitoring) | Dashboards, alerts, and metrics setup |
-| [ci-workflows](https://github.com/ar-ecommerce-platform/ci-workflows) | Shared CI/CD workflows for services |
+| [config-server](https://github.com/ar-ecommerce-backend/config-server) | Centralized configuration service |
+| [config-repo](https://github.com/ar-ecommerce-backend/config-repo) | Centralized configs for all services |
+| [api-gateway](https://github.com/ar-ecommerce-backend/api-gateway) | Routes and secures external API traffic |
+| [discovery-server](https://github.com/ar-ecommerce-backend/discovery-server) | Eureka-based service registry for dynamic service discovery |
+| [infra](https://github.com/ar-ecommerce-backend/infra) | Infrastructure as code: Docker, Kubernetes, secrets |
+| [monitoring](https://github.com/ar-ecommerce-backend/monitoring) | Dashboards, alerts, and metrics setup |
+| [ci-workflows](https://github.com/ar-ecommerce-backend/ci-workflows) | Shared CI/CD workflows for services |
 
 
 ### 🧪 Testing & Quality  
 
 | Repository | Description |
 | --- | --- |
-| [e2e-tests](https://github.com/ar-ecommerce-platform/e2e-tests) | End-to-end API and flow tests |
-| [test-reports](https://github.com/ar-ecommerce-platform/test-reports) | Stores and displays test results |
+| [e2e-tests](https://github.com/ar-ecommerce-backend/e2e-tests) | End-to-end API and flow tests |
+| [test-reports](https://github.com/ar-ecommerce-backend/test-reports) | Stores and displays test results |
 
 
 ### 📖 Documentation  
 
 | Repository | Description |
 | --- | --- |
-| [docs](https://github.com/ar-ecommerce-platform/docs) | Architecture diagrams, ADRs, and system design docs |
+| [docs](https://github.com/ar-ecommerce-backend/docs) | Architecture diagrams, ADRs, and system design docs |
 
 ---
 
